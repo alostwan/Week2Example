@@ -21,7 +21,7 @@ public class CardGameExample {
     {
        // take and store only 4 cards - next week deck 52 
         
-        Card[] deck = new Card[52]; // array of Card object- suit and value
+        Card[] deck = new Card[53]; // array of Card object- suit and value
         Scanner input= new Scanner(System.in);
         System.out.println(" enter your card details :");
         for(int i=0;i<deck.length;i++)
