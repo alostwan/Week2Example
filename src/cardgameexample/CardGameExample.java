@@ -17,7 +17,6 @@ public class CardGameExample {
     /**
      * @param args the command line arguments
      * sadadas
-     * sss
      */
     public static void main(String[] args) 
     {
